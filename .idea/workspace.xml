@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="335d1a3e-19df-4841-97ad-ba12376fa5cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/AlesCalculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/DividedBy3And11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/DividedBy4And7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/DrivingLicenseCourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/ElectricityInvoice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/EvenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/FillsTheCube.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/InterestingNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/InvertedNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/InvoiceCalculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/MilitarySchool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/NailPolishes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/SemiSquareNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/SpecialNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/SumOfCubeToEqualToNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/TotalFuelCost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/WeightOfAtheles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Eighth_InvertedNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Eleventh_WeightOfAtheles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fifteenth_NailPolishes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fifth_ElectricityInvoice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/First_InvoiceCalculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fourteenth_InterestingNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fourth_FillsTheCube.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ninth_AlesCalculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Second_SemiSquareNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seventeenth_DividedBy4And7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seventh_TotalFuelCost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sixteenth_DividedBy3And11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sixth_DrivingLicenseCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tenth_EvenNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Third_MilitarySchool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thirteenth_SumOfCubeToEqualToNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Twelfth_SpecialNumbers.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ri5IS7TBMZEcDEc2WtRwUaPPP3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="335d1a3e-19df-4841-97ad-ba12376fa5cb" name="Default Changelist" comment="" />
+      <created>1619445990435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619445990435</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619448354065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619448354065" />
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom" timestamp="1619449608169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1619449608169" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center" timestamp="1619449608168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1619449608168" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left" timestamp="1619449608168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1619449608168" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right" timestamp="1619449608169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1619449608169" />
+  </component>
+</project>
